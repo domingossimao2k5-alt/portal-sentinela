@@ -1,0 +1,15 @@
+{
+  "name": "Sentinela — Portal de Denúncias | SIC Caála",
+  "short_name": "Sentinela",
+  "description": "Canal oficial de denúncia e queixa do Serviço de Investigação Criminal do Município da Caála.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef2fb",
+  "theme_color": "#2563eb",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/brand/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/brand/icon-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/brand/apple-icon-180x180.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
